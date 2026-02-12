@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FDA 510(k) Review Studio - Flower Edition-021226-V2",
+  "description": "A comprehensive agentic AI system for FDA regulatory reviews, featuring multi-agent pipelines, note keeping, and deep device summaries using Gemini 2.5/3.",
+  "requestFramePermissions": []
+}
